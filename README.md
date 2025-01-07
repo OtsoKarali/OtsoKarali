@@ -43,8 +43,6 @@ I am always eager to learn from field experts and enthusiasts alike! Feel free t
 
 </div>
 
----
-
 <div align="center">
   <table>
     <tr>
