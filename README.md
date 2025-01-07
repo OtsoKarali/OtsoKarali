@@ -1,8 +1,9 @@
 # ☄️ Otso Karali
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OtsoKarali/NameImage/40a828002f4416c29fe12f7e47b282a2fc1223c0/OtsoKarali.png" alt="Otso Karali" />
+  <img src="https://github.com/OtsoKarali/NameImage/blob/main/OtsoKarali2.png?raw=true" alt="Otso Karali" />
 </p>
+
 
 <p align="center">
   <!-- Typing SVG -->
