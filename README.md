@@ -20,7 +20,7 @@ I am always eager to learn from field experts and enthusiasts alike! Feel free t
 <table>
   <tr>
     <td align="center">
-      <h3>🛠️ Languages and Tools 🛠️</h3>
+      <h3>Languages and Tools</h3>
       <img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
       <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
       <img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -33,7 +33,7 @@ I am always eager to learn from field experts and enthusiasts alike! Feel free t
       <img alt="MongoDB" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg" />
     </td>
     <td align="center">
-      <h3>🌐 Socials 🌐</h3>
+      <h3>Socials</h3>
       <a href="https://www.linkedin.com/in/otsokarali/">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-top: -40px;">
       </a>
