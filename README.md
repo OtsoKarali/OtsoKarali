@@ -41,20 +41,6 @@ I am always eager to learn from field experts and enthusiasts alike! Feel free t
   </tr>
 </table>
 
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=otsokarali&show_icons=true&theme=radical&title_color=FFF700&text_color=FFF700" alt="Otso Karali's GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otsokarali&layout=compact&theme=radical&title_color=FFF700&text_color=FFF700" alt="Most Used Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 
 
